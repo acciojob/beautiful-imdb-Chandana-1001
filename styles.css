@@ -1,2 +1,25 @@
 
 /* Your CSS Code here. */
+.container
+{
+	background-color:lightblue;
+	height:500px;
+	
+}
+.moviePic
+{
+	height:300px;
+	width:150px;
+	opacity:0.1;
+	padding:10px;
+	margin:20px;
+}
+.movieDetail
+{
+	position:relative;
+	top:10px;
+	width:300px;
+	text-align:center;
+	font-size:10px;
+	padding:10px;
+}
